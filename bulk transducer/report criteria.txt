@@ -1,0 +1,16 @@
+Report
+
+Coherent text document
+--introduction
+--theory/background-linear response theory, energy bond formalism/modeling
+--description of the experiment
+--presentation of data
+--model for pbg
+--fits of data
+--conclusion
+
+figures readable
+--labels, fontsize, legend, captions
+derivations in some detail
+drawings/sketches if necessary
+
